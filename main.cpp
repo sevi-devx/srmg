@@ -210,10 +210,9 @@ int main() {
                             cin.ignore();
                             getline(cin, input);
 
-                            if(input.empty()) break;                    }
+                            if(input.empty()) break;
                         }
                         else {
-
                             cout << "Cannot find the ID" << endl;
 
                             file.close();
