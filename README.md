@@ -38,14 +38,14 @@ The application expects comma-separated values in the following format:
 Open your terminal and compile using `g++`:
 
 ```bash
-g++ -std=c++11 main.cpp -o student_manager
+g++ main.cpp -o main
 ```
 
 ### 4. Running the Program
 Execute the compiled binary:
 
 ```bash
-./student_manager
+./main
 ```
 
 ---
